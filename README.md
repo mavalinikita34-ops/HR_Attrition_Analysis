@@ -66,11 +66,11 @@ Why are employees leaving the company? This project finds which departments, age
 
 ```
 HR-Attrition-Analysis/
-├── data/HR_Attrition_Cleaned.csv
-├── excel/HR_Attrition_Analysis.xlsx
-├── sql/hr_attrition_queries.sql
-├── powerbi/HR_Attrition_Dashboard.pbix
+├── data/HR_Attrition_Cleaned.csv 
 ├── screenshots/
+├── sql/hr_attrition_queries.sql
+├── excel/HR_Attrition_Analysis.xlsx
+├── powerbi/HR_Attrition_Dashboard.pbix
 └── README.md
 ```
 
